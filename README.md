@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Diogo Cruz
 
-**`Desenvolvedora FullStack e Mobile`**
+**`Desenvolvedor FullStack e Mobile`**
 
 Me chamo Diogo Cruz, e sou natural de Luanda/Africa. Atualmente, estou cursando Ciência e Tecnologia na UFSC e Análise e Desenvolvimento de Sistemas na UNIASSELVI . Sou apaixonado por tecnologia e Desenvolvimento pessoal e compartilho meu conhecimento através do meu perfil do Likendin  "[Diogo Cruz](linkedin.com/in/diogo-cruz-2875392a9)", onde compartilho os meus aprendizados no mundo das Tics..
 
