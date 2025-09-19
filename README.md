@@ -82,6 +82,23 @@ Eu sou o Diogo Cruz, e sou natural de Luanda/Angola. Atualmente, estou cursando 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"            
 />
+<img 
+    align="left" 
+    alt="POSTGRSQL" 
+    title="postgrsql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"            
+/>
+
+<img 
+    align="left" 
+    alt="NextJS" 
+    title="Nextjs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"            
+/>
 
 
 
