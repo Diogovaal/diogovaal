@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack e Mobile`**
 
-Me chamo Diogo Cruz, e sou natural de Luanda/Angola. Atualmente, estou cursando Ciência e Tecnologia na UFSC e Análise e Desenvolvimento de Sistemas na UNIASSELVI . Sou apaixonado por tecnologia e Desenvolvimento pessoal e compartilho meu conhecimento através do meu perfil do Likendin  "[Diogo Cruz](linkedin.com/in/diogo-cruz-2875392a9)", onde compartilho os meus aprendizados no mundo das Tics..
+Eu sou o Diogo Cruz, e sou natural de Luanda/Angola. Atualmente, estou cursando Ciência e Tecnologia na UFSC e Análise e Desenvolvimento de Sistemas na UNIASSELVI . Sou apaixonado por tecnologia e Desenvolvimento pessoal e compartilho meu conhecimento através do meu perfil do Likendin  "[Diogo Cruz](linkedin.com/in/diogo-cruz-2875392a9)", onde compartilho os meus aprendizados no mundo das Tics..
 
 <p align="left">
     <a href="https://github.com/diogovaal?tab=repositories&sort=stargazers">
@@ -66,14 +66,6 @@ Me chamo Diogo Cruz, e sou natural de Luanda/Angola. Atualmente, estou cursando 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.Js"
-    width="30px" 
-    style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-/>
 <img 
     align="left" 
     alt="Node.js" 
